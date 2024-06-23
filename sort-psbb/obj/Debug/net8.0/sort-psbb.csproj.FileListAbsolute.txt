@@ -1,0 +1,15 @@
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\bin\Debug\net8.0\sort-psbb.exe
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\bin\Debug\net8.0\sort-psbb.deps.json
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\bin\Debug\net8.0\sort-psbb.runtimeconfig.json
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\bin\Debug\net8.0\sort-psbb.dll
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\bin\Debug\net8.0\sort-psbb.pdb
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\obj\Debug\net8.0\sort-psbb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\obj\Debug\net8.0\sort-psbb.AssemblyInfoInputs.cache
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\obj\Debug\net8.0\sort-psbb.AssemblyInfo.cs
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\obj\Debug\net8.0\sort-psbb.csproj.CoreCompileInputs.cache
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\obj\Debug\net8.0\sort-psbb.dll
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\obj\Debug\net8.0\refint\sort-psbb.dll
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\obj\Debug\net8.0\sort-psbb.pdb
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\obj\Debug\net8.0\sort-psbb.genruntimeconfig.cache
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\obj\Debug\net8.0\ref\sort-psbb.dll
+C:\Users\Enigma\Documents\CSharp\Projects\SortPsbb\sort-psbb\obj\Debug\net8.0\sort-psbb.sourcelink.json
