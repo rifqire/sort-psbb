@@ -64,3 +64,32 @@ for (int i = 0; i < sortedChars.Length; i++)
 Console.WriteLine("\nVowel characters:\n" + vowels);
 Console.WriteLine("Consonant characters:\n" + consonants);
 ```
+
+## PSBB
+
+User inputs the number of families, as well as the number of members in the family separated by spaces.
+The number of members will be turned into an array by splitting them with space as the delimiter, and then converted to integer using Parse method.
+
+```csharp
+string[] splittedMembers = familyMembers.Split(' ');
+int[] numbers = Array.ConvertAll(splittedMembers, int.Parse);
+```
+
+If the number of families is larger than or equal to length of the numbers array, then do a for-each loop. If the total members divided by 4 (bus capacity) remains 0, the minimum bus required is the result of the division. If it has remainders, the minimum bus is the result of division, then add with 1.
+
+```csharp
+int totalMembers = 0;
+int minimumBus = 0;
+foreach (var n in numbers)
+{
+    totalMembers += n;
+}
+if (totalMembers % 4 == 0) {
+    minimumBus = totalMembers / 4;
+}
+else
+{
+    minimumBus = totalMembers / 4 + 1;
+}
+Console.WriteLine($"Minimum bus required is: {minimumBus}");
+```
